@@ -565,9 +565,9 @@ Advanced (6+ months):
 ### **Meeting Structure:**
 ```
 Weekly:
-• Monday: Hardware sync (8 PM IST)
-• Wednesday: Firmware sync (8 PM IST)
-• Friday: Cloud/Web sync (8 PM IST)
+• Sunday: Hardware sync (8 PM IST)
+• Sunday: Firmware sync (8 PM IST)
+• Sunday: Cloud/Web sync (8 PM IST)
 • Sunday: Community call (5 PM IST)
 
 Monthly:
@@ -585,7 +585,7 @@ Quarterly:
 
 ## **6. TIMELINE & MILESTONES**
 
-### **Q1 2024: Foundation (Jan-Mar)**
+### **Q1 2026: Foundation (Jan-Mar)**
 ```
 January:
 ✓ Complete breadboard prototype
@@ -606,7 +606,7 @@ March:
 • First community build event
 ```
 
-### **Q2 2024: Development (Apr-Jun)**
+### **Q2 2026: Development (Apr-Jun)**
 ```
 April:
 • Test Rev 0.5 hardware
@@ -627,7 +627,7 @@ June:
 • First data analysis report
 ```
 
-### **Q3 2024: Scaling (Jul-Sep)**
+### **Q3 2026: Scaling (Jul-Sep)**
 ```
 July:
 • Optimize power consumption
@@ -648,7 +648,7 @@ September:
 • First scientific publication
 ```
 
-### **Q4 2024: Maturity (Oct-Dec)**
+### **Q4 2026: Maturity (Oct-Dec)**
 ```
 October:
 • Scale to 200+ nodes

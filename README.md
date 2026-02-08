@@ -3,7 +3,7 @@
 # **VayuNode: Complete Implementation Blueprint**
 
 ## **PROJECT VISION**
-> Build 100 deployable air quality nodes by 2024 Q4, creating the largest open-source environmental monitoring network in India.
+> Build 100 deployable air quality nodes by 2027 Q4, creating the largest open-source environmental monitoring network in India.
 
 ---
 
